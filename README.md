@@ -21,4 +21,4 @@
 ### https://github.com/seonghoJoo/java_web
 
 ## 인턴십 Image Crop Using By Detectron2 2019 12월 2020 2월
-
+### 객체감지 인공지능 모델 detectron2을 활용했습니다.
