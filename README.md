@@ -11,13 +11,13 @@
 ## notion 개인 개발 공부
 ### https://www.notion.so/Quick-Note-6ce2cd1902d941deaf43ddadc42b5832
 
-## java
+## java 언어
 ### https://github.com/seonghoJoo/java_basic
 
-## front-end
+## front-end html css javascript
 ### https://github.com/seonghoJoo/front-end
 
-## back-end
+## back-end mybatis
 ### https://github.com/seonghoJoo/java_web
 
 ## 인턴십 Image Crop Using By Detectron2 2019 12월 2020 2월
