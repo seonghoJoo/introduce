@@ -1,7 +1,7 @@
 
 # 주성호  주소 링크 안내 페이지 입니다
 * * *
-
+    https://img.shields.io/static/v1?label=<LABEL>&message=<JAVA>&color=<RED>
   - 코로나 확진자 웹서비스 2020년 10월 - 2020년 12월
   - https://github.com/seonghoJoo/corona_web
 * * *
