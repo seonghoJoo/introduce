@@ -2,8 +2,9 @@
 # 주성호  주소 링크 안내 페이지 입니다
 * * *
 
-|기간|활동|깃헙 주소|
-    |2020년 10월 - 2020년 12월 |코로나 확진자 웹서비스 | https://github.com/seonghoJoo/corona_web
+기간|활동|깃헙 주소|
+--- | --- | ---|
+2020년 10월 - 2020년 12월 |코로나 확진자 웹서비스 | https://github.com/seonghoJoo/corona_web
 
 * * *
 
